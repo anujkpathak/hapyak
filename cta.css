@@ -1,17 +1,3 @@
-body { 
-	font-family: Gotham SSm A,Gotham SSm B,Arial,Helvetica,sans-serif;
-	margin:0px;
-	padding:0px;
-	height:100%;
-	overflow:hidden;
- 	background: url(https://servicenow.com/content/dam/servicenow-assets/public/en-us/images/background/demonow-green-bg.jpg) no-repeat center center fixed; 
-  	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
- 	background-size: cover;
- 	height: 100%;
-}
-	
 .centered {
   position: fixed;
   top: 50%;
