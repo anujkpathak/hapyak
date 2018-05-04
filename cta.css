@@ -1,0 +1,40 @@
+body { 
+	font-family: Gotham SSm A,Gotham SSm B,Arial,Helvetica,sans-serif;
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow:hidden;
+ 	background: url(https://servicenow.com/content/dam/servicenow-assets/public/en-us/images/background/demonow-green-bg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+ 	background-size: cover;
+ 	height: 100%;
+}
+	
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+a {
+	text-decoration: none;
+}
+
+.button {
+ border:1px solid #81b5a1;
+ border-radius:0px;
+ color:#fff;
+ padding:20px;
+ font-weight: bold;
+ text-align: center;
+ display: inline-block;
+ font-size: 16px;
+}
+
+.button:hover {
+background-color:#81b5a1;
+color:#293e40;
+}
